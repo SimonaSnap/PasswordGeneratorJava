@@ -1,3 +1,6 @@
+
+//this started as a js file - it became the notes that i used as i did the assignment
+
 // Assignment Code
 //var generateBtn = document.querySelector("#generate");
 
